@@ -1,0 +1,3 @@
+[submodule "chapter-1-challenge-1"]
+	path = chapter-1-challenge-1
+	url = git@github.com:navarrotheus/ignite-node-conceitos-do-nodejs.git
