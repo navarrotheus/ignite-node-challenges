@@ -1,0 +1,9 @@
+[submodule "ignite-node-conceitos-do-nodejs"]
+	path = ignite-node-conceitos-do-nodejs
+	url = https://github.com/navarrotheus/ignite-node-conceitos-do-nodejs
+[submodule "ignite-node-trabalhando-com-middlewares"]
+	path = ignite-node-trabalhando-com-middlewares
+	url = https://github.com/navarrotheus/ignite-node-trabalhando-com-middlewares
+[submodule "ignite-node-corrigindo-o-codigo"]
+	path = ignite-node-corrigindo-o-codigo
+	url = https://github.com/navarrotheus/ignite-node-corrigindo-o-codigo
