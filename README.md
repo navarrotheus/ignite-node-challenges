@@ -22,10 +22,10 @@
   <a href="https://github.com/navarrotheus/ignite-node-trabalhando-com-middlewares">Ver desafio</a>
 </p>
 
-<h3 align="center"> Desafio 03 - Corrigindo o código :x: </h2>
+<h3 align="center"> Desafio 03 - Corrigindo o código :heavy_check_mark: </h2>
 
 <p align="center">
-  <a href="#">Ver desafio</a>
+  <a href="https://github.com/navarrotheus/ignite-node-corrigindo-o-codigo">Ver desafio</a>
 </p>
 
 <h2 id="02" align="center"> Chapter II </h2>
