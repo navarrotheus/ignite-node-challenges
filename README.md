@@ -17,7 +17,7 @@
   <a href="https://github.com/navarrotheus/ignite-node-conceitos-do-nodejs">Ver minha solução</a>
 </p>
 
-<h3 align="center"> Desafio 02 - Trabalhando com middlewares :x: </h2>
+<h3 align="center"> Desafio 02 - Trabalhando com middlewares :heavy_check_mark: </h2>
 
 <p align="center">
   <a href="https://www.notion.so/Desafio-02-Trabalhando-com-middlewares-4f89bf538c2e4ee291382b92bdc36790">Ver desafio</a>&nbsp;|
