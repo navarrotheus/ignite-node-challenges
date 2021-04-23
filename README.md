@@ -30,10 +30,10 @@
 
 <h2 id="02" align="center"> Chapter II </h2>
 
-<h3 align="center"> Desafio 01 :x: </h2>
+<h3 align="center"> Desafio 01 - Introdução ao SOLID :heavy_check_mark: </h2>
 
 <p align="center">
-  <a href="#">Ver desafio</a>
+  <a href="https://github.com/navarrotheus/ignite-node-introducao-ao-SOLID">Ver desafio</a>
 </p>
 
 <h3 align="center"> Desafio 02 - Documentando com Swagger :x: </h2>
