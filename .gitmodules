@@ -7,3 +7,6 @@
 [submodule "ignite-node-corrigindo-o-codigo"]
 	path = ignite-node-corrigindo-o-codigo
 	url = https://github.com/navarrotheus/ignite-node-corrigindo-o-codigo
+[submodule "ignite-node-introducao-ao-SOLID"]
+	path = ignite-node-introducao-ao-SOLID
+	url = git@github.com:navarrotheus/ignite-node-introducao-ao-SOLID.git
