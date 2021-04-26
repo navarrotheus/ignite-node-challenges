@@ -10,3 +10,6 @@
 [submodule "ignite-node-introducao-ao-SOLID"]
 	path = ignite-node-introducao-ao-SOLID
 	url = git@github.com:navarrotheus/ignite-node-introducao-ao-SOLID.git
+[submodule "ignite-node-documentando-com-swagger"]
+	path = ignite-node-documentando-com-swagger
+	url = git@github.com:navarrotheus/ignite-node-documentando-com-swagger.git
