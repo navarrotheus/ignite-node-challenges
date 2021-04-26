@@ -36,7 +36,21 @@
   <a href="https://github.com/navarrotheus/ignite-node-introducao-ao-SOLID">Ver desafio</a>
 </p>
 
-<h3 align="center"> Desafio 02 - Documentando com Swagger :x: </h2>
+<h3 align="center"> Desafio 02 - Documentando com Swagger :heavy_check_mark: </h2>
+
+<p align="center">
+  <a href="https://github.com/navarrotheus/ignite-node-documentando-com-swagger">Ver desafio</a>
+</p>
+
+<h2 id="03" align="center"> Chapter III </h2>
+
+<h3 align="center"> Desafio 01 - Database Queries :x: </h2>
+
+<p align="center">
+  <a href="#">Ver desafio</a>
+</p>
+
+<h3 align="center"> Desafio 02 - Modelagem do banco de dados :x: </h2>
 
 <p align="center">
   <a href="#">Ver desafio</a>
